@@ -1,6 +1,6 @@
 uuid7
 python-editor
-torch @ https://download.pytorch.org/whl/cpu/torch-1.13.1%2Bcpu-cp311-cp311-linux_x86_64.whl
+pytorch
 whisper-openai
 moviepy==2.0.0dev2
 argparse
